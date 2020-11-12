@@ -9,13 +9,13 @@ Down below are the graphical results on some of the 'mujoco' and 'box2d' environ
 
 To check out the 'open ai gym leaderboard' [here is the link](https://github.com/openai/gym/wiki/Leaderboard)
 
-### Env:HalfCheetah-v1 
+### Env: HalfCheetah-v1 
 ![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/temp/video/half_cheetah/openaigym.video.0.45180.video000975.gif)![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/plots/HalfCheetah-v1.png)
 
 Note: In the title of the plot there should be '1000 scores' instead of '100 scores'
 
-### Env:LunarLanderContinuous-v2 
+### Env: LunarLanderContinuous-v2 
 ![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/temp/video/Lunar_lander_continuous_v2/openaigym.video.0.6508.video000975.gif)![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/plots/LunarLanderContinuous-v2.png)
 
-### Env:Ant-v1 
+### Env: Ant-v1 
 ![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/plots/Ant-v1.png)
