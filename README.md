@@ -7,10 +7,10 @@ Paper: [Addressing Function Approximation Error in Actor-Critic Methods](https:/
 
 Down below are the graphical results on some of the 'mujoco' and 'box2d' environments of this implementation. Several other environments are also to be solved and added.
 
-To check out the 'open ai gym leaderboard' ![here is the link](https://github.com/openai/gym/wiki/Leaderboard)
+To check out the 'open ai gym leaderboard' [here is the link](https://github.com/openai/gym/wiki/Leaderboard)
 
 ### Env:HalfCheetah-v1 
-![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/temp/video/half_cheetah/openaigym.video.0.45180.video000975.gif) ![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/plots/HalfCheetah-v1.png)
+![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/temp/video/half_cheetah/openaigym.video.0.45180.video000975.gif)![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/plots/HalfCheetah-v1.png)
 
 Note: In the title of the plot there should be '1000 scores' instead of '100 scores'
 
