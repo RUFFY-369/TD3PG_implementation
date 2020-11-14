@@ -1,6 +1,6 @@
 # TD3PG: Twin Delayed Deep Deterministic policy gradient_implementation
 
-This is a Pytorch implementation of the 'TD3PG' paper(Both of the jupyter notebook and python script is used for the 'main' file and for several others too)
+This is a **Pytorch implementation of the 'TD3PG' paper** (Both of the jupyter notebook and python script is used for the 'main' file and for several others too)
 
 Paper: [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477)
 
