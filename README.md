@@ -19,3 +19,5 @@ Note: In the title of the plot there should be '1000 scores' instead of '100 sco
 
 ### Env: Ant-v1 
 ![](https://github.com/RUFFY-369/TD3PG_implementation/blob/master/plots/Ant-v1.png)
+
+#### References: [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines/tree/master/stable_baselines/td3)
